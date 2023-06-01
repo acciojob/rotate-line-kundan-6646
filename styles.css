@@ -6,7 +6,8 @@
     align-items: center;
 }
 #line {
-	background: black;
+	position: absolute;
+	background-color: rgb(0, 0, 0);
 	width: 200px;
 	height: 2px;
 	animation: rotateLine 1s infinite ease-in-out forwards;
